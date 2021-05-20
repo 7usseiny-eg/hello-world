@@ -1,2 +1,4 @@
 # hello-world
-Trying to learn GitHub
+Changing the main branch through another branch and commit these changes
+
+A great tool!
